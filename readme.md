@@ -1,3 +1,2 @@
-##you can change the image and also view the app server
-#the image that you can use
-quay.io/gauravkumar9130/mywebapp
+# you can also change the images
+## you can use the image provided below
